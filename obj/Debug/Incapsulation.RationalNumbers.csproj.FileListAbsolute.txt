@@ -1,0 +1,1 @@
+C:\source\Incapsulation.RationalNumbers\bin\Debug\Incapsulation.RationalNumbers.exe.config
